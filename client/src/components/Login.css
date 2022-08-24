@@ -1,0 +1,63 @@
+
+
+.loginForm{
+    text-align: center;
+}
+  
+.loginForm-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+  
+@media (prefers-reduced-motion: no-preference) {
+.loginForm-logo {
+      animation: App-logo-spin infinite 20s linear;
+ }
+  }
+  
+.loginForm-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+  
+.logregisterform{
+    height: 200px;
+    padding-top: 8rem;
+}
+  
+.loginform{
+    margin-top: 15px;
+    height: 33px;
+    width: 20rem;
+    font-size: 18px;
+    border-radius: 5px;
+    color: #6c757d;
+}
+  
+.logbtn{
+    margin-top: 15px;
+    height: 35px;
+    width: 110px;
+    font-size: 15px;
+    font-family: monospace;
+    cursor: pointer;
+    border-radius: 5px;
+    border-width: thin;
+    background-color: #3b5998;
+    color: #ffff;
+}
+  
+  
+  
+  
+.App-link {
+    color: #61dafb;
+}
+  
+  

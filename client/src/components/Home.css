@@ -1,0 +1,31 @@
+
+
+.qouteDiv{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10rem;
+} 
+
+.qouteDiv h2{
+    font-size: 28px;
+}
+
+.inputQoute{
+    height: 30px;
+    width: 18rem;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+.qoutebtn{
+    height: 30px;
+    margin-left: 8px;
+    border-radius: 5px;
+    border-bottom-width: thin;
+    cursor: pointer;
+    font-size: 14px;
+    background-color: #3b5998;
+    color: #fff;
+    
+}
